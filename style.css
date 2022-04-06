@@ -67,10 +67,10 @@ form button{
     background-color: rgb(225, 224, 224);
     cursor: pointer;
 }
-li.comleted {
+li.completed {
     color:#aaa;
 }
 
-li.comleted span{
+li.completed span{
     text-decoration: line-through;
 }
